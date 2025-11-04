@@ -1,6 +1,6 @@
-# Lab02
+# media
 
-[02_Simulation and Visualization.pdf](Lab02/02_Simulation_and_Visualization.pdf)
+[02_Simulation and Visualization.pdf](media/02_Simulation_and_Visualization.pdf)
 
 ---
 
@@ -37,13 +37,13 @@ rosdep install --from-path src --ignore-src -y -r
 colcon build --symlink-install
 
 # launch gazebo and rviz
-ros2 launch turtlebot3_gazebo lab02.launch.py
+ros2 launch turtlebot3_gazebo media.launch.py
 ros2 launch turtlebot3_bringup rviz2.launch.py
 ```
 
 - Results:
 
-![image.png](Lab02/image.png)
+![image.png](media/image.png)
 
 ---
 
@@ -60,7 +60,7 @@ pip install --upgrade transforms3d
 
 - Algorithm
 
-![image.png](Lab02/image%201.png)
+![image.png](media/image%201.png)
 
 - Code
 
@@ -240,7 +240,7 @@ if __name__ == '__main__':
 
 - Terminal outcome
 
-![image.png](Lab02/image%202.png)
+![image.png](media/image%202.png)
 
 ---
 
@@ -274,7 +274,7 @@ def generate_launch_description():
             PathJoinSubstitution([
                 FindPackageShare('turtlebot3_gazebo'), 
                 'launch',
-                'lab02.launch.py' # import external launch file
+                'media.launch.py' # import external launch file
             ])
         ])
     )
@@ -302,15 +302,15 @@ def generate_launch_description():
 
 - Recording
 
-![gazeboMod.gif](Lab02/gazeboMod.gif)
+![gazeboMod.gif](media/gazeboMod.gif)
 
-![gazeborvizMod.gif](Lab02/gazeborvizMod.gif)
+![gazeborvizMod.gif](media/gazeborvizMod.gif)
 
 —
 
 - Rqt_graph
 
-![image.png](Lab02/image%203.png)
+![image.png](media/image%203.png)
 
 —
 
@@ -431,7 +431,7 @@ rosbag2_bagfile_information:
 
 - Plot it then on plotjupiter
 
-![image.png](Lab02/image%204.png)
+![image.png](media/image%204.png)
 
 ---
 
