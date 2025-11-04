@@ -1,4 +1,4 @@
-# media
+# Lab 02
 
 [02_Simulation and Visualization.pdf](media/02_Simulation_and_Visualization.pdf)
 

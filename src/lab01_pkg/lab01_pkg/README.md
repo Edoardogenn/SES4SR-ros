@@ -1,6 +1,6 @@
-# Lab01
+# Lab 01
 
-[01_ROS 2 Basic Concepts.pdf](Lab01%2029008a578a8080ecaf51d081d2d6123b/01_ROS_2_Basic_Concepts.pdf)
+[01_ROS 2 Basic Concepts.pdf](media/01_ROS_2_Basic_Concepts.pdf)
 
 ---
 
@@ -78,7 +78,7 @@ if __name__ == '__main__':
 ros2 run rqt_console rqt_console
 ```
 
-![image.png](Lab01%2029008a578a8080ecaf51d081d2d6123b/image.png)
+![image.png](media/image.png)
 
 - rqt_graph
 
@@ -86,11 +86,11 @@ ros2 run rqt_console rqt_console
 ros2 run rqt_graph rqt_graph
 ```
 
-![image.png](Lab01%2029008a578a8080ecaf51d081d2d6123b/image%201.png)
+![image.png](media/image%201.png)
 
 - Terminal outcome
 
-![Screenshot 2025-10-18 at 11.58.29.png](Lab01%2029008a578a8080ecaf51d081d2d6123b/Screenshot_2025-10-18_at_11.58.29.png)
+![Screenshot 2025-10-18 at 11.58.29.png](media/Screenshot_2025-10-18_at_11.58.29.png)
 
 ---
 
@@ -165,7 +165,7 @@ if __name__ == '__main__':
 
 terminal outcome
 
-![Screenshot 2025-10-18 at 11.58.40.png](Lab01%2029008a578a8080ecaf51d081d2d6123b/Screenshot_2025-10-18_at_11.58.40.png)
+![Screenshot 2025-10-18 at 11.58.40.png](media/Screenshot_2025-10-18_at_11.58.40.png)
 
 ---
 
@@ -183,7 +183,7 @@ export LIBGL_ALWAYS_SOFTWARE=1
 
 Plot
 
-![image.png](Lab01%2029008a578a8080ecaf51d081d2d6123b/image%202.png)
+![image.png](media/image%202.png)
 
 ---
 
@@ -237,7 +237,7 @@ if __name__ == '__main__':
 
 terminal outcome
 
-![image.png](Lab01%2029008a578a8080ecaf51d081d2d6123b/image%203.png)
+![image.png](media/image%203.png)
 
 ---
 
@@ -328,7 +328,7 @@ if __name__ == '__main__':
     main()
 ```
 
-![image.png](Lab01%2029008a578a8080ecaf51d081d2d6123b/image%204.png)
+![image.png](media/image%204.png)
 
 - Localization_reset
 
@@ -403,7 +403,7 @@ if __name__ == '__main__':
     main()
 ```
 
-![image.png](Lab01%2029008a578a8080ecaf51d081d2d6123b/image%205.png)
+![image.png](media/image%205.png)
 
 ---
 
@@ -411,11 +411,11 @@ if __name__ == '__main__':
 
 - plotjupiter
 
-![image.png](Lab01%2029008a578a8080ecaf51d081d2d6123b/image%206.png)
+![image.png](media/image%206.png)
 
 - rqt_graph
 
-![image.png](Lab01%2029008a578a8080ecaf51d081d2d6123b/image%207.png)
+![image.png](media/image%207.png)
 
 ---
 
