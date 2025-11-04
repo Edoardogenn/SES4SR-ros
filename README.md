@@ -4,7 +4,7 @@
 
 This repo contains all the material and explanation of the laboratories of the couse.
 
-## 📚 Indice dei laboratori
+## 📚 Index of laboratories
 
 - [Lab 01](./src/lab01_pkg/lab01_pkg/README.md) — Understanding ROS 2: basic tools, topics, nodes
 - [Lab 02](./src/lab02_pkg/lab02_pkg/README.md) — Simulation in Gazebo and visualization with Rviz2
