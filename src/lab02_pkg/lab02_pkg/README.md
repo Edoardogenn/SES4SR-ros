@@ -302,9 +302,9 @@ def generate_launch_description():
 
 - Recording
 
-[gazeboMod.m4v](Lab02/gazeboMod.m4v)
+[gazeboMod.gif](Lab02/gazeboMod.gif)
 
-[gazeborvizMod.m4v](Lab02/gazeborvizMod.m4v)
+[gazeborvizMod.gif](Lab02/gazeborvizMod.gif)
 
 —
 
