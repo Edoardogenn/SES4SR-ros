@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 import os           # <--- ADD THIS
 from glob import glob # <--- ADD THIS
 
-package_name = 'lab02_pkg'
+package_name = 'lab03_pkg'
 
 setup(
     name=package_name,
@@ -28,7 +28,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'controller = lab02_pkg.controller:main',
+            'controller = lab03_pkg.controller:main',
         ],
     },
 )
